@@ -1,0 +1,24 @@
+.heading{
+    box-shadow: 5px 5px 5px grey;
+    padding: 5px;
+    width: 100%;
+}
+
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    background-color: grey;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px solid purple;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
